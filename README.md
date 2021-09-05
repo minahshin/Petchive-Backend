@@ -12,4 +12,5 @@
      
 - 게시판 페이지
 > - 홈   
-![image](https://user-images.githubusercontent.com/33835900/132127176-f66ec37e-5901-4199-8dc3-94ad99a1fac2.png)
+![image](https://user-images.githubusercontent.com/33835900/132127595-3520240f-78ca-4a63-bc8b-409d026d04c8.png)
+
