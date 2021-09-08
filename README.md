@@ -11,6 +11,11 @@
      
      
 - 게시판 페이지
-> - 홈   
-![image](https://user-images.githubusercontent.com/33835900/132127595-3520240f-78ca-4a63-bc8b-409d026d04c8.png)
+> - 홈    
+![Petchive  Home-1](https://user-images.githubusercontent.com/33835900/132520033-fd9b8c8e-4b9f-4a38-8fb4-2f3f10d48a4b.jpg)   
+>     
+> - 자유게시판
+![Petchive  글 목록) 자유게시판](https://user-images.githubusercontent.com/33835900/132520131-c54c5f5e-46ef-4183-b263-66199c8dffcd.jpg)
+
+
 
