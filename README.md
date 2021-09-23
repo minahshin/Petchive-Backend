@@ -18,7 +18,10 @@
 ![Petchive  글 목록) 자유게시판](https://user-images.githubusercontent.com/33835900/132846105-352f79ca-c0e8-4ef6-925e-26fdf742abc5.png)   
 >     
 > - 반려동물 자랑
-![Petchive  글 목록) 반려동물 자랑](https://user-images.githubusercontent.com/33835900/132846025-b3f4c9ef-05c9-479c-9a87-ff23ced61c62.png)
+![Petchive  글 목록) 반려동물 자랑](https://user-images.githubusercontent.com/33835900/132846025-b3f4c9ef-05c9-479c-9a87-ff23ced61c62.png)   
+> - 글 보기
+> ![Petchive  글 보기](https://user-images.githubusercontent.com/33835900/134490901-04ce1279-dc8f-42b6-98df-6a18311f0de8.png)
+
 
 
 
